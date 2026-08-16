@@ -46,6 +46,7 @@ organizational environment, including:
 - Security recommendations
 - Continuous improvement
 
+[Cybersecurity Risk Compliance & Control Assessment.pdf](https://github.com/user-attachments/files/31112123/Cybersecurity.Risk.Compliance.Control.Assessment.pdf)
 
 
 

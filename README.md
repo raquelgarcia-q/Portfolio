@@ -12,14 +12,9 @@ risk assessment, and cybersecurity frameworks.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I am an aspiring cybersecurity and GRC professional building practical
-experience in governance, risk management, compliance, and security operations.
-
-My goal is to help organizations identify cybersecurity risks, implement
-appropriate controls, maintain compliance, and continuously improve their
-security programs.
+Cybersecurity Operations & Leadership graduate with a Bachelor’s in Psychology, focused on Governance, Risk, and Compliance (GRC) roles. Experienced in structured data tracking, documentation, risk-focused analysis, and high-pressure operational environments, with strong attention to detail, critical thinking, and pattern recognition. Passionate about helping organizations identify and manage cybersecurity risks, strengthen security controls, maintain compliance, and improve security awareness. Actively building skills in risk assessments, control frameworks, compliance mapping, policy development, and GRC processes.
 
 ### Areas of Interest
 

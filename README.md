@@ -10,8 +10,6 @@ risk assessment, and cybersecurity frameworks.
 > created projects designed to demonstrate cybersecurity and GRC skills.
 > They do not represent professional client work unless explicitly stated.
 
----
-
 ## About Me
 
 Cybersecurity Operations & Leadership graduate with a Bachelor’s in Psychology, focused on Governance, Risk, and Compliance (GRC) roles. Experienced in structured data tracking, documentation, risk-focused analysis, and high-pressure operational environments, with strong attention to detail, critical thinking, and pattern recognition. Passionate about helping organizations identify and manage cybersecurity risks, strengthen security controls, maintain compliance, and improve security awareness. Actively building skills in risk assessments, control frameworks, compliance mapping, policy development, and GRC processes.
@@ -29,63 +27,36 @@ Cybersecurity Operations & Leadership graduate with a Bachelor’s in Psychology
 - Cybersecurity Documentation
 - Continuous Improvement
 
----
+# Projects
 
-# 📁 Portfolio Projects
+### Acuity Health — GRC Risk & Compliance Assessment
 
-## 1. Cybersecurity Risk Assessment
+This project is a comprehensive GRC assessment developed
+for Acuity Health, a fictional healthcare organization.
 
-**Objective:**  
-Perform a cybersecurity risk assessment for a fictional organization.
+The project demonstrates my ability to apply GRC concepts to a realistic
+organizational environment, including:
 
-### Deliverables
+- Governance
+- Risk assessment
+- Security controls
+- Compliance
+- Policy development
+- Risk treatment
+- Security recommendations
+- Continuous improvement
 
-- Asset inventory
-- Threat identification
-- Vulnerability identification
-- Risk scoring
-- Risk matrix
-- Risk treatment recommendations
-- Risk register
 
-### Frameworks
+
+
+
+## Frameworks
 
 - NIST Cybersecurity Framework
 - NIST Risk Management concepts
 - ISO 31000
 
-📂 `projects/risk-assessment/`
-
----
-
-## 2. Security Controls Assessment
-
-**Objective:**  
-Evaluate security controls and identify gaps within a fictional organization.
-
-### Deliverables
-
-- Control catalog
-- Control objectives
-- Control assessment
-- Gap analysis
-- Remediation recommendations
-
-### Control Categories
-
-- Access Control
-- Asset Management
-- Data Protection
-- Incident Response
-- Security Awareness
-- Vulnerability Management
-- Business Continuity
-
-📂 `projects/control-assessment/`
-
----
-
-## 3. GRC Compliance Mapping
+## GRC Compliance Mapping
 
 **Objective:**  
 Map cybersecurity controls to recognized security frameworks.
@@ -216,45 +187,3 @@ I am building familiarity with:
 - Assessment Reports
 - Remediation Plans
 
----
-
-# 📂 Repository Structure
-
-```text
-cybersecurity-grc-portfolio/
-│
-├── README.md
-│
-├── projects/
-│   │
-│   ├── risk-assessment/
-│   │   ├── README.md
-│   │   ├── risk-register.xlsx
-│   │   ├── risk-matrix.png
-│   │   └── assessment-report.pdf
-│   │
-│   ├── control-assessment/
-│   │   ├── README.md
-│   │   ├── control-catalog.xlsx
-│   │   └── gap-analysis.pdf
-│   │
-│   ├── compliance-mapping/
-│   │   ├── README.md
-│   │   └── compliance-matrix.xlsx
-│   │
-│   ├── security-policies/
-│   │   ├── README.md
-│   │   └── policies/
-│   │
-│   └── vendor-risk/
-│       ├── README.md
-│       ├── vendor-questionnaire.xlsx
-│       └── assessment-report.pdf
-│
-├── documentation/
-│   ├── methodology.md
-│   └── frameworks.md
-│
-└── assets/
-    ├── risk-matrix.png
-    └── screenshots/

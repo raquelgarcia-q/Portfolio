@@ -1,9 +1,6 @@
-# Portfolio
-# 🛡️ Cybersecurity & GRC Portfolio
+# Cybersecurity
 
-### Governance • Risk • Compliance • Cybersecurity
-
-Welcome to my cybersecurity and GRC portfolio.
+Welcome to my portfolio.
 
 This repository showcases hands-on projects demonstrating my knowledge of
 Governance, Risk Management, Compliance, security controls, policy development,

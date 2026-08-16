@@ -2,14 +2,6 @@
 
 Welcome to my portfolio.
 
-This repository showcases hands-on projects demonstrating my knowledge of
-Governance, Risk Management, Compliance, security controls, policy development,
-risk assessment, and cybersecurity frameworks.
-
-> **Note:** Projects in this portfolio are academic, simulated, or independently
-> created projects designed to demonstrate cybersecurity and GRC skills.
-> They do not represent professional client work unless explicitly stated.
-
 ## About Me
 
 Cybersecurity Operations & Leadership graduate with a Bachelor’s in Psychology, focused on Governance, Risk, and Compliance (GRC) roles. Experienced in structured data tracking, documentation, risk-focused analysis, and high-pressure operational environments, with strong attention to detail, critical thinking, and pattern recognition. Passionate about helping organizations identify and manage cybersecurity risks, strengthen security controls, maintain compliance, and improve security awareness. Actively building skills in risk assessments, control frameworks, compliance mapping, policy development, and GRC processes.
@@ -28,7 +20,9 @@ Cybersecurity Operations & Leadership graduate with a Bachelor’s in Psychology
 - Continuous Improvement
 
 # Projects
-
+> **Note:** Projects in this portfolio are academic, simulated, or independently
+> created projects designed to demonstrate cybersecurity and GRC skills.
+> They do not represent professional client work unless explicitly stated.
 ### Acuity Health — GRC Risk & Compliance Assessment
 
 This project is a comprehensive GRC assessment developed
